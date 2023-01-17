@@ -1,5 +1,0 @@
-bronnen:
-hoe haar cascade maken:
-- https://youtu.be/XrCAvs9AePM
-- https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html
-- https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
